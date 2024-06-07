@@ -1,8 +1,6 @@
-# Modernizing Travel Agency's Legacy Back-End with Android and Room Framework
+# ANDROID VACATION PLANNER APP
 
-## SCENARIO
-
-The Android Vacation Planner App simplifies the process of planning your vacations and associated excursions, ensuring that all your vacation details are saved and available for future reference.
+The Android Vacation Planner App saves all your vacation details, making them available to you for reference anytime you need them. Using the Android Vacation Planner App, you can create vacations, update them anytime you make changes, and delete them if your plans change. Add as many vacations as you need.
 
 ## FEATURES:
 
