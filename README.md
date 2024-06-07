@@ -1,6 +1,6 @@
 # ANDROID VACATION PLANNER APP
 
-The Android Vacation Planner App is a comprehensive travel companion that empowers you to organize and manage all aspects of your vacations. With its intuitive interface, you can seamlessly create, update, and delete vacation itineraries, accommodating the ever-changing nature of travel plans. 
+The Android Vacation Planner App is a comprehensive travel companion that empowers you to organize and manage all aspects of your vacations. With its intuitive interface, you can easily create, update, and delete vacation itineraries, accommodating the ever-changing nature of travel plans. 
 
 ## Features:
 
