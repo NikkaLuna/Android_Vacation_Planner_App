@@ -4,11 +4,13 @@ The Android Vacation Planner App saves all your vacation details, making them av
 
 ## FEATURES:
 
-- **Create, Update, and Delete Vacations**: Add, update, and delete vacations as needed.
-- **Vacation View**: Display all vacation details, including title, location, start and end dates, and associated excursions. Edit and delete vacation information.
-- **Excursion Management**: Add, update, and delete excursions for each vacation.
-- **Vacation Alerts**: Set alerts for vacation and excursion dates to ensure timely reminders.
-- **Share Vacations with Friends and Family**: Share vacation details via email, clipboard, or SMS.
+- **Android Development:** Utilized Android's core components including activities, fragments, and layouts to create a user-friendly interface and navigation flow.
+- **SQLite Database Management:** Implemented Room Framework as an abstraction layer over SQLite database for efficient and structured data storage and retrieval.
+- **Java Development:** Developed the application using Java programming language for the Android platform, ensuring compatibility and performance.
+- **Validation:** Implemented rigorous input validation mechanisms to ensure data integrity, enhancing user experience and data accuracy.
+- **Alerts:** Integrated alert notifications to keep users informed about important events such as vacation start, end, and excursion dates, improving user engagement and experience.
+- **Sharing Features:** Implemented sharing functionality to allow users to easily share vacation details via email, clipboard, or SMS, enhancing user convenience and social sharing.
+- **Deployment:** Successfully generated signed APK for deployment, demonstrating proficiency in creating deployment packages for Android applications.
 
 ## USING THE APPLICATION:
 
