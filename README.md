@@ -6,7 +6,7 @@ The Android Vacation Planner App is a comprehensive travel companion that empowe
 
 - **Android Development:** Implemented a responsive and intuitive user interface using Android's core components (activities, fragments, and layouts). Utilized RecyclerViews and Adapters for dynamic content loading.
 
-- **SQLite Database Management:** Integrated the Room Persistence Library to manage the SQLite database, ensuring efficient data storage and retrieval. Implemented complex queries and data manipulation operations for seamless data management.
+- **SQLite Database Management:** Integrated the Room Persistence Library to manage the SQLite database, ensuring efficient data storage and retrieval. 
 
 - **Java Development:** Developed the application using Java, leveraging its object-oriented principles for modular and maintainable code. 
 
@@ -23,6 +23,12 @@ The Android Vacation Planner App is a comprehensive travel companion that empowe
 ![Vacation Details Screen](https://github.com/NikkaLuna/Android_Vacation_Planner_App/blob/master/VacationExcursionDetails.png)
 
 *This screenshot showcases the "Vacation Details" and "Excursion Details" screen of the Android Vacation Planner App. Users can create, update, and share their vacation plans, add excursions, and set push notifications.*
+
+### APK Generation
+
+![Generate Signed APK](https://github.com/NikkaLuna/Android_Vacation_Planner_App/blob/master/Generate%20APK.png)
+
+This screenshot demonstrates the process of generating a signed APK in Android Studio for the Android Vacation Planner App, highlighting the steps in preparing the app for deployment to the Google Play Store or distribution for testing.
 
 
 ## USING THE APPLICATION:
