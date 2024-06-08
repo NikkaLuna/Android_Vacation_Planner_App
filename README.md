@@ -22,7 +22,7 @@ The Android Vacation Planner App is a comprehensive travel companion that empowe
 
 ![Vacation Details Screen](https://github.com/NikkaLuna/Android_Vacation_Planner_App/blob/master/VacationExcursionDetails.png)
 
-*This screenshot showcases the "Vacation Details" and "Excursion Details" screen of the Android Vacation Planner App. Users can create, update, and share their vacation plans, add excursions, and set push notifications.*
+*This screenshot displays the "Vacation Details" and "Excursion Details" screen of the Android Vacation Planner App. Users can create, update, and share their vacation plans, add excursions, and set push notifications.*
 
 ### APK Generation
 
