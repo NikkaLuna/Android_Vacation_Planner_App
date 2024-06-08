@@ -18,6 +18,13 @@ The Android Vacation Planner App is a comprehensive travel companion that empowe
 
 - **Deployment:** Successfully generated signed APKs for deployment on Google Play Store.
 
+### Screenshot
+
+![Vacation Details Screen](https://github.com/NikkaLuna/Android_Vacation_Planner_App/blob/master/VacationExcursionDetails.png)
+
+*This screenshot showcases the "Vacation Details" screen of the Android Vacation Planner App. Users can create, update, and share their vacation plans, as well as set push notifications.*
+
+
 ## USING THE APPLICATION:
 
 1. **Download and Install**: Download the app from the Google Play Store and install it on your Android device.
