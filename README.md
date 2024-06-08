@@ -28,7 +28,7 @@ The Android Vacation Planner App is a comprehensive travel companion that empowe
 
 ![Generate Signed APK](https://github.com/NikkaLuna/Android_Vacation_Planner_App/blob/master/Generate%20APK.png)
 
-This screenshot demonstrates the process of generating a signed APK in Android Studio for the Android Vacation Planner App, highlighting the steps in preparing the app for deployment to the Google Play Store or distribution for testing.
+*This screenshot demonstrates the process of generating a signed APK in Android Studio for the Android Vacation Planner App, highlighting the steps in preparing the app for deployment to the Google Play Store or distribution for testing.*
 
 
 ## USING THE APPLICATION:
